@@ -21,5 +21,13 @@ class MainActivity : AppCompatActivity() {
     private fun bol(a: Int, b: Int): Int {
         return a / b
     }
+//...
+    private fun cikars(a: Int, b: Int): Int {
+        return a - b
+    }
+
+    private fun bols(a: Int, b: Int): Int {
+        return a / b
+    }
 
 }
