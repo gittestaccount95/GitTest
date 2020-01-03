@@ -10,8 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    private fun topla(a: Int, b: Int): Int {
-        return a + b
+    private fun topla(a: Int, b: Int, c: Int): Int {
+        return a + b + c
     }
 //...
     private fun cikar(a: Int, b: Int): Int {
