@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     private fun topla(a: Int, b: Int): Int {
         return a + b
     }
-
+//...
     private fun cikar(a: Int, b: Int): Int {
         return a - b
     }
