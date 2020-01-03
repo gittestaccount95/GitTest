@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
         return a - b
     }
 
+    private fun bol(a: Int, b: Int): Int {
+        return a / b
+    }
+
 }
