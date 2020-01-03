@@ -22,4 +22,13 @@ class MainActivity : AppCompatActivity() {
         return a / b
     }
 
+//...
+    private fun cikarzz(a: Int, b: Int): Int {
+        return a - b
+    }
+
+    private fun bolzz(a: Int, b: Int): Int {
+        return a / b
+    }
+
 }
